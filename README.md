@@ -10,9 +10,9 @@ This project is the backend for the Capstone Project, built with Django and Djan
 
 ## Setting Up the Backend
 
+```bash
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/yourusername/capstone_project.git
 cd capstone_project/backend
 
